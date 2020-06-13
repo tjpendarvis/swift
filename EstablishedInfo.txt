@@ -1,10 +1,6 @@
 Practice 5:30 PM EST M-F
-Testing
 Swift Rex0
 Swift Chad
 Swift Bourx
 Swift Peyton
 Swift SynS
-Swift Xpektz
-Swift Loki
-Lets see what this looks like if i keep typing and check if it parses correctly
